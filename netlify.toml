@@ -1,0 +1,7 @@
+[[redirects]]
+  from = "/index.html"
+  to = "/about.html"
+  status = 301
+  force = false
+  query = {path = "https://whimsical-heliotrope-3286a7.netlify.app/about.html"}
+  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
